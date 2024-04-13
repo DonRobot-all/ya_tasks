@@ -23,5 +23,5 @@ if __name__ == "__main__":
     assert football(0, 2, 0, 3, 2) == 6, football(0, 2, 0, 3, 2)
     assert football(1, 2, 1, 3, 2) == 4, football(0, 2, 0, 3, 2)
 
-3 2
-2 3
+# 3 2
+# 2 3
